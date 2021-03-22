@@ -1,0 +1,11 @@
+annoy
+torch
+torchvision
+torchtext
+nltk
+opencv-python
+jupyter
+scikit-image
+cython
+seaborn
+cairocffi

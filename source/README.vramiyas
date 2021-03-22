@@ -1,0 +1,4 @@
+Trained sketch classifer with Mobilenet
+Analysed the code for Text2Scene and add it to the pipeline for inference.
+Wrote evalution code for inception score and semantic object accuracy.
+Helped setup experiments and ideas for Caption Generator.

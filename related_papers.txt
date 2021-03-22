@@ -1,0 +1,11 @@
+preprocessing and post processing
+
+https://cs.stanford.edu/~zxie/textgen.pdf
+https://arxiv.org/pdf/1910.13321.pdf  Semantic Object Accuracy for
+Generative Text-to-Image Synthesis
+
+Jointly Measuring Diversity and Quality
+in Text Generation Models https://arxiv.org/pdf/1904.03971.pdf
+
+A Comprehensive Survey of Deep Learning for ImageCaptioning
+https://arxiv.org/pdf/1810.04020.pdf
