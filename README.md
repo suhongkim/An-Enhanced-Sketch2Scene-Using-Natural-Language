@@ -1,4 +1,5 @@
 # An Enhanced Sketch2Scene Using Natural Language
+The project to find out How NLP can improve the computer vision task
 
 ## Introduction 
 Translating a sketch into a scene is a challenging
